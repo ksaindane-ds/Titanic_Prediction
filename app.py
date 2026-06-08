@@ -29,5 +29,5 @@ if st.button('Predict'):
     prediction = model.predict(features)[0]
     result = 'Survived' if prediction == 1 else 'Not Survived'
     st.write(f'The model predicts: {result}')
-st.write("Developed by Krushna Saindane")
+st.write("Developed by Krushna Saindane...!!")
 
