@@ -1,1 +1,3 @@
-https://titanicprediction-krushna-poster.streamlit.app/
+# Titanic Prediction
+
+https://titanic-prediction-017.streamlit.app/
